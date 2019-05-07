@@ -1,0 +1,7 @@
+<map id="souffle::RamAnalysis" name="souffle::RamAnalysis">
+<area shape="rect" id="node2" href="$classsouffle_1_1_index_set_analysis.html" title="Analysis pass computing the index sets of RAM relations. " alt="" coords="5,160,185,281"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_existence_check_analysis.html" title="{souffle::RamExistenceCheck\lAnalysis\n|+ name\l|+ getKey()\l+ isTotal()\l+ run()\l}" alt="" coords="209,160,411,281"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_index_keys_analysis.html" title="{souffle::RamIndexKeysAnalysis\n|+ name\l|+ getRangeQueryColumns()\l+ run()\l}" alt="" coords="435,175,651,267"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_level_analysis.html" title="A Ram Analysis for determining the level of a expression/condition. " alt="" coords="675,175,862,267"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_provenance_existence_check_analysis.html" title="{souffle::RamProvenanceExistence\lCheckAnalysis\n|+ name\l|+ getKey()\l+ isTotal()\l+ run()\l}" alt="" coords="886,160,1123,281"/>
+</map>

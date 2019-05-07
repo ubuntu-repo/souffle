@@ -1,0 +1,5 @@
+<map id="souffle::Explain::parseTuple" name="souffle::Explain::parseTuple">
+<area shape="rect" id="node2" href="$classsouffle_1_1_screen_buffer.html#a077af583c179141a81a7a9f3c06b092c" title="souffle::ScreenBuffer\l::getString" alt="" coords="265,5,420,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_explain_provenance.html#a10fa5f6b1d6fac35938c21d9ee38c560" title="souffle::ExplainProvenance\l::printRulesJSON" alt="" coords="247,71,439,112"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_screen_buffer.html#a2e5e6bf07dbecb217df56d63851a5587" title="souffle::ScreenBuffer\l::print" alt="" coords="487,5,641,47"/>
+</map>

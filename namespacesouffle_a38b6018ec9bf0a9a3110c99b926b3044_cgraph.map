@@ -1,0 +1,21 @@
+<map id="souffle::makeInfoRelation" name="souffle::makeInfoRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a6dd961f511124f842623aaeef7bc59da" title="Returns this class as the referenced atom. " alt="" coords="237,5,429,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_clause.html#a9918f4fb19dd6f152d784512853b447a" title="Obtains a copy of the internally maintained body literals. " alt="" coords="511,41,647,82"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#a46a432b3284cd500a57eb181c31a3ccd" title="Gets the clause number. " alt="" coords="265,223,401,265"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#ae9a1e5dd0a7c9781e23a7d9ececd6ae5" title="Return the atom that represents the head of the clause. " alt="" coords="265,289,401,330"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_atom.html#adfaa949dc3e89fa2dc25981963ea5752" title="Return the name of this atom. " alt="" coords="235,355,431,381"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_translation_unit.html#ad3c8a4225f4974ff9c8bad88f6690d9e" title="get symbol table " alt="" coords="240,406,427,447"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a05eb410bc1f341864368bc73608bae7d" title="Helper functions. " alt="" coords="490,472,669,499"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="532,107,627,133"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#aa15c74ca7366692d06582c9431f4cff2" title="souffle::makeRelationName" alt="" coords="235,523,432,549"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_variable.html#ac4c0ebfd0fa698fed40ea7794e33cd0b" title="Print argument to the given output stream. " alt="" coords="261,574,405,615"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_clause.html#a57ee5a2d88e7f2177448706a57ae8ad8" title="Print this clause to a given stream. " alt="" coords="265,158,401,199"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#abad7410af2a4ba80aecfefede16c6a77" title="Converts operator to its symbolic representation. " alt="" coords="238,639,429,681"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="252,705,415,732"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_relation_identifier.html#a40b918b195df8c3eb223c068db7536fe" title="souffle::AstRelationIdentifier\l::append" alt="" coords="480,523,679,565"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_clause.html#af474f0a79851dc870309c1eac1db4005" title="Return the number of elements in the body of the Clause. " alt="" coords="511,158,647,199"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_clause.html#af03a18e982fbce1bb3866c18c5da192e" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="509,223,649,265"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_execution_plan.html#afd1441312caa998c880e6150bf464848" title="Output to a given output stream. " alt="" coords="488,289,671,330"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="498,698,661,739"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="727,698,913,739"/>
+</map>

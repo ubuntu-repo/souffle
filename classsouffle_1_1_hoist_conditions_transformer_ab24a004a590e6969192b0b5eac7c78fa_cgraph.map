@@ -1,0 +1,14 @@
+<map id="souffle::HoistConditionsTransformer::hoistConditions" name="souffle::HoistConditionsTransformer::hoistConditions">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_transformer.html#a09ebbf557165cbdebf5d95d5124f709b" title="Apply transformer. " alt="" coords="287,37,465,79"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_operation.html#a830c31e49b4ed2c54bef01af5cc19463" title="Apply the mapper to all child nodes. " alt="" coords="294,103,458,144"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_node.html#a8b93371163c782cbebc1ca966e8ff063" title="Apply the mapper to all child nodes. " alt="" coords="287,169,465,195"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_condition.html#a54f67f8136251030e958232ae1aa051a" title="Create clone. " alt="" coords="295,220,457,261"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_search.html#a65035eb792c3bfb3c7df5313deac197e" title="Get identifier. " alt="" coords="303,285,449,327"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a486f7f441cd86b3a5baedd7948dba363" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="257,351,495,378"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="295,402,457,429"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_transformer.html#a10a0d3a003094ad4a8de96b968d26e29" title="Transform RAM translation unit. " alt="" coords="551,5,729,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_translation_unit.html#adc388ca999ac2b1a8b584f517e60d930" title="souffle::RamTranslationUnit\l::invalidateAnalyses" alt="" coords="543,71,737,112"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="577,293,703,319"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="559,395,721,436"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="785,395,972,436"/>
+</map>

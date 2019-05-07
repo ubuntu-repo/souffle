@@ -1,0 +1,5 @@
+<map id="souffle::LVMGenerator::visitElementAccess" name="souffle::LVMGenerator::visitElementAccess">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_element_access.html#a5a7fd799d4373f0249b7efb17b592793" title="Get element. " alt="" coords="216,5,415,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_element_access.html#afef6e9980fa10d9b6e63c4844a4d30c6" title="Get identifier. " alt="" coords="216,71,415,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="463,78,589,105"/>
+</map>

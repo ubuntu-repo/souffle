@@ -1,0 +1,9 @@
+<map id="souffle::RamProgram::clone" name="souffle::RamProgram::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_program.html#a4749c799caa0046528267d07817b5a43" title="Add relation. " alt="" coords="250,5,406,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_program.html#a453d60c7ab8a34168cd39be2cb1e7ca5" title="Add subroutine. " alt="" coords="250,71,406,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_program.html#a6ea8dda68c573b440a260c94e4979fc6" title="Apply mapper. " alt="" coords="250,136,406,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_relation.html#aa51f56890b280dd3a368ae1843fc85fb" title="Create clone. " alt="" coords="253,201,403,243"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a486f7f441cd86b3a5baedd7948dba363" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="209,267,447,294"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_program.html#ad9b55aed7491c5941c0795f2fed824cd" title="souffle::RamProgram\l::RamProgram" alt="" coords="250,319,406,360"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation.html#aa1256359c350281aaeee2be8e72bd360" title="souffle::RamRelation\l::RamRelation" alt="" coords="495,201,645,243"/>
+</map>

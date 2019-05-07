@@ -1,0 +1,5 @@
+<map id="souffle::RamIndexKeysAnalysis::run" name="souffle::RamIndexKeysAnalysis::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_index_keys_analysis.html#a9c9b87f5c3bdb44e0c7968bd87f21b96" title="Get indexable columns of index scan. " alt="" coords="299,5,515,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_index_relation_search.html#a5b1a80ce0a1e8833bd9b05328c53c25d" title="Get range pattern. " alt="" coords="563,5,748,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="796,13,940,39"/>
+</map>

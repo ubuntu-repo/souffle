@@ -1,0 +1,5 @@
+<map id="souffle::LVMGenerator::visitPackRecord" name="souffle::LVMGenerator::visitPackRecord">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_pack_record.html#afb91f1eff5cc6ca8390d2370d6c5140e" title="Get arguments. " alt="" coords="216,5,389,47"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1_ram_visitor.html#a67136cda6eff2a5445e372ed54846df7" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="225,71,381,112"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="437,13,581,39"/>
+</map>

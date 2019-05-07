@@ -1,0 +1,6 @@
+<map id="souffle::SynthesiserRelation" name="souffle::SynthesiserRelation">
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_relation.html" title="A RAM Relation in the RAM intermediate representation. " alt="" coords="1201,277,1411,560"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_index_set.html" title="Computes the index set for a relation. " alt="" coords="664,623,865,949"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_max_matching.html" title="Computes a maximum matching with Hopcroft&#45;Karp algorithm Source: http://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm#Pseudocode. " alt="" coords="412,336,576,501"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="893,5,1033,200"/>
+</map>

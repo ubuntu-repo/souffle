@@ -1,0 +1,7 @@
+<map id="souffle::RamTransformer" name="souffle::RamTransformer">
+<area shape="rect" id="node2" href="$classsouffle_1_1_choice_conversion_transformer.html" title="Convert (Scan/If)/(IndexScan/If) operaitons to (Choice)/(IndexChoice) operations. ..." alt="" coords="5,182,192,333"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_expand_filter_transformer.html" title="Transforms RamConjunctions into consecutive filter operations. " alt="" coords="217,204,442,311"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_hoist_conditions_transformer.html" title="Hosts conditions in a loop&#45;nest to the most&#45;outer/semantically&#45;correct loop. " alt="" coords="466,197,638,318"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_if_conversion_transformer.html" title="Convert IndexScan operations to Filter/Existence Checks. " alt="" coords="663,197,889,318"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_make_index_transformer.html" title="Make indexable operations to indexed operations. " alt="" coords="913,175,1129,340"/>
+</map>

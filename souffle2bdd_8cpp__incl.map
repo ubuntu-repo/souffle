@@ -1,0 +1,29 @@
+<map id="souffle2bdd.cpp" name="souffle2bdd.cpp">
+<area shape="rect" id="node2" href="$_ast_argument_8h.html" title="AstArgument.h" alt="" coords="2582,528,2701,555"/>
+<area shape="rect" id="node3" href="$_ast_node_8h.html" title="AstNode.h" alt="" coords="4403,677,4493,704"/>
+<area shape="rect" id="node5" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="4208,827,4307,853"/>
+<area shape="rect" id="node7" href="$_util_8h.html" title="Util.h" alt="" coords="2314,752,2369,779"/>
+<area shape="rect" id="node24" href="$_functor_ops_8h.html" title="FunctorOps.h" alt="" coords="1461,677,1568,704"/>
+<area shape="rect" id="node25" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="2037,677,2152,704"/>
+<area shape="rect" id="node26" href="$_ast_attribute_8h.html" title="AstAttribute.h" alt="" coords="3609,528,3719,555"/>
+<area shape="rect" id="node27" href="$_ast_clause_8h.html" title="AstClause.h" alt="" coords="4183,379,4281,405"/>
+<area shape="rect" id="node28" href="$_ast_literal_8h.html" title="AstLiteral.h" alt="" coords="2707,453,2802,480"/>
+<area shape="rect" id="node29" href="$_ast_relation_identifier_8h.html" title="AstRelationIdentifier.h" alt="" coords="2086,603,2245,629"/>
+<area shape="rect" id="node30" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="1845,603,2011,629"/>
+<area shape="rect" id="node31" href="$_ast_component_checker_8h.html" title="AstComponentChecker.h" alt="" coords="593,304,775,331"/>
+<area shape="rect" id="node32" href="$_ast_i_o_type_analysis_8h.html" title="AstIOTypeAnalysis.h" alt="" coords="2579,229,2727,256"/>
+<area shape="rect" id="node33" href="$_ast_pragma_8h.html" title="AstPragma.h" alt="" coords="1057,603,1162,629"/>
+<area shape="rect" id="node34" href="$_ast_program_8h.html" title="AstProgram.h" alt="" coords="2881,229,2991,256"/>
+<area shape="rect" id="node35" href="$_ast_relation_8h.html" title="AstRelation.h" alt="" coords="3683,304,3789,331"/>
+<area shape="rect" id="node36" href="$_ast_semantic_checker_8h.html" title="AstSemanticChecker.h" alt="" coords="479,379,646,405"/>
+<area shape="rect" id="node37" href="$_ast_transforms_8h.html" title="AstTransforms.h" alt="" coords="1911,80,2036,107"/>
+<area shape="rect" id="node38" href="$_ast_translation_unit_8h.html" title="AstTranslationUnit.h" alt="" coords="2087,155,2236,181"/>
+<area shape="rect" id="node39" href="$_debug_report_8h.html" title="DebugReport.h" alt="" coords="1643,677,1760,704"/>
+<area shape="rect" id="node40" href="$_global_8h.html" title="Global.h" alt="" coords="3291,752,3365,779"/>
+<area shape="rect" id="node42" href="$_error_report_8h.html" title="ErrorReport.h" alt="" coords="1056,752,1163,779"/>
+<area shape="rect" id="node43" href="$_ast_visitor_8h.html" title="AstVisitor.h" alt="" coords="3371,155,3466,181"/>
+<area shape="rect" id="node44" href="$_component_model_8h.html" title="ComponentModel.h" alt="" coords="4048,528,4195,555"/>
+<area shape="rect" id="node45" href="$_parser_driver_8h.html" title="ParserDriver.h" alt="" coords="5518,80,5629,107"/>
+<area shape="rect" id="node4" href="$_ast_types_8h.html" title="AstTypes.h" alt="" coords="4304,752,4395,779"/>
+<area shape="rect" id="node23" href="$_ast_type_8h.html" title="AstType.h" alt="" coords="3536,603,3619,629"/>
+</map>

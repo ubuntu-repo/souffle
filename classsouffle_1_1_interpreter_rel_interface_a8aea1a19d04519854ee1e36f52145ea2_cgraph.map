@@ -1,0 +1,6 @@
+<map id="souffle::InterpreterRelInterface::begin" name="souffle::InterpreterRelInterface::begin">
+<area shape="rect" id="node2" href="$classsouffle_1_1_interpreter_relation.html#ac38a7ef1e0d01a99d5d96c7c0479f92e" title="get iterator begin of relation " alt="" coords="268,64,459,105"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_interpreter_relation.html#a5de54d32362b1ee2b22318e055833e22" title="Check whether relation is empty. " alt="" coords="523,5,713,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_interpreter_relation.html#ae016a864942bb8693682380ac7276bbd" title="get iterator begin of relation " alt="" coords="507,71,729,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_interpreter_relation_1_1iterator.html#a9697e85cb83a791a66429a7eb3c76828" title="souffle::InterpreterRelation\l::iterator::iterator" alt="" coords="777,89,968,131"/>
+</map>

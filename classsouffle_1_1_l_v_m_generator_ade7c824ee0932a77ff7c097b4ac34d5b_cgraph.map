@@ -1,0 +1,4 @@
+<map id="souffle::LVMGenerator::visitNegation" name="souffle::LVMGenerator::visitNegation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_negation.html#afbcfd1bd6f274f6316e390dbb702b103" title="Get operand of negation. " alt="" coords="216,5,375,47"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1_ram_visitor.html#a67136cda6eff2a5445e372ed54846df7" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="217,71,373,112"/>
+</map>

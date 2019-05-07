@@ -1,0 +1,7 @@
+<map id="souffle::IndexSet::isSubset" name="souffle::IndexSet::isSubset">
+<area shape="rect" id="node2" href="$classsouffle_1_1_max_matching.html#a4cd24259875831e6d3f82aaa3840a4ab" title="Solve. " alt="" coords="189,25,345,66"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_max_matching.html#a8ddaeeb5af558ffc94bb54d7b3bc1734" title="breadth first search " alt="" coords="393,90,549,131"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_max_matching.html#a0a86567f140cab81c0a76b763552402f" title="Get match. " alt="" coords="597,25,753,66"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_max_matching.html#a799ace56dd22769e9b7114fa7928e4c0" title="depth first search " alt="" coords="393,25,549,66"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_max_matching.html#a20efdbbbf7d3492c3c721ee43e70a1c6" title="Get distance. " alt="" coords="597,90,753,131"/>
+</map>

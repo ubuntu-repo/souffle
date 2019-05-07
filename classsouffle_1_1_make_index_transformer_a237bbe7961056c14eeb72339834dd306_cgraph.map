@@ -1,0 +1,9 @@
+<map id="souffle::MakeIndexTransformer::makeIndex" name="souffle::MakeIndexTransformer::makeIndex">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_transformer.html#a09ebbf557165cbdebf5d95d5124f709b" title="Apply transformer. " alt="" coords="299,48,477,89"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a486f7f441cd86b3a5baedd7948dba363" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="269,114,507,141"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="307,165,469,191"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_transformer.html#a10a0d3a003094ad4a8de96b968d26e29" title="Transform RAM translation unit. " alt="" coords="563,5,741,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_translation_unit.html#adc388ca999ac2b1a8b584f517e60d930" title="souffle::RamTranslationUnit\l::invalidateAnalyses" alt="" coords="555,71,749,112"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="571,157,733,199"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="797,157,984,199"/>
+</map>

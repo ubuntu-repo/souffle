@@ -1,0 +1,6 @@
+<map id="souffle::LVMGenerator" name="souffle::LVMGenerator">
+<area shape="rect" id="node2" href="$structsouffle_1_1_ram_visitor.html" title="{souffle::RamVisitor\l\&lt; void, size_t \&gt;\n||+ operator()()\l+ operator()()\l+ visit()\l+ visit()\l+ ~RamVisitor()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\land 25 more...\l}" alt="" coords="20,189,161,501"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1ram__visitor__tag.html" title="A tag type required for the is_ram_visitor type trait to identify RamVisitors. " alt="" coords="5,27,176,105"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="509,219,672,472"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="540,5,641,127"/>
+</map>

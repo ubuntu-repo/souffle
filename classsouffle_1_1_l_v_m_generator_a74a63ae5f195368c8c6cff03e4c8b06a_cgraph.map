@@ -1,0 +1,10 @@
+<map id="souffle::LVMGenerator::visitUserDefinedOperator" name="souffle::LVMGenerator::visitUserDefinedOperator">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_user_defined_operator.html#a10b803795d3511c93e447447c9090f49" title="Get number of arguments. " alt="" coords="244,5,481,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_user_defined_operator.html#a1061e9aa7b58bcd1511f61b4059f12d9" title="Get i&#45;th argument value. " alt="" coords="244,71,481,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_user_defined_operator.html#a698b19582a698f3f24a5145d79c9a609" title="Get operator name. " alt="" coords="244,136,481,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_user_defined_operator.html#ab098adbd1cf492ed22a06b42d86e2462" title="Get types of arguments. " alt="" coords="244,201,481,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_symbol_table.html#ada9d8afe1219bf54d16507b424f512c6" title="Find the index of a symbol in the table, inserting a new symbol if it does not exist there already..." alt="" coords="287,267,439,308"/>
+<area shape="rect" id="node9" href="$structsouffle_1_1_ram_visitor.html#a67136cda6eff2a5445e372ed54846df7" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="285,332,441,373"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="529,245,685,271"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_symbol_table.html#a3ada80bb01130f70001918c386d3ab21" title="Convenience method to place a new symbol in the table, if it does not exist, and return the index of ..." alt="" coords="531,296,683,337"/>
+</map>

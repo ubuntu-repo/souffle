@@ -1,0 +1,8 @@
+<map id="souffle::LVMGenerator::visitSwap" name="souffle::LVMGenerator::visitSwap">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_swap.html#a33c9dc7a1e5daa3dd124df40f90e9581" title="Get first relation. " alt="" coords="227,5,417,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="247,71,397,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_swap.html#a182343d36ea21f9128ee16cd87647db4" title="Get second relation. " alt="" coords="216,136,428,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_symbol_table.html#ada9d8afe1219bf54d16507b424f512c6" title="Find the index of a symbol in the table, inserting a new symbol if it does not exist there already..." alt="" coords="246,201,398,243"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="476,179,632,206"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_symbol_table.html#a3ada80bb01130f70001918c386d3ab21" title="Convenience method to place a new symbol in the table, if it does not exist, and return the index of ..." alt="" coords="478,231,630,272"/>
+</map>

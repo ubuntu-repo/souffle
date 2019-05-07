@@ -1,0 +1,11 @@
+<map id="souffle::LVMGenerator::visitFact" name="souffle::LVMGenerator::visitFact">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="251,5,401,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#aff204de1a828d72e6e74337be4885ddd" title="Get name. " alt="" coords="251,71,401,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation_statement.html#a93110734f0f992a2f9b1a1d492cef3ad" title="Get RAM relation. " alt="" coords="216,136,436,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_fact.html#ae3214d4be302d4df5c414591a309ae96" title="Get arguments of fact. " alt="" coords="227,202,425,229"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_symbol_table.html#ada9d8afe1219bf54d16507b424f512c6" title="Find the index of a symbol in the table, inserting a new symbol if it does not exist there already..." alt="" coords="250,253,402,295"/>
+<area shape="rect" id="node10" href="$structsouffle_1_1_ram_visitor.html#a67136cda6eff2a5445e372ed54846df7" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="248,319,404,360"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="490,202,634,229"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="484,257,640,283"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_symbol_table.html#a3ada80bb01130f70001918c386d3ab21" title="Convenience method to place a new symbol in the table, if it does not exist, and return the index of ..." alt="" coords="486,308,638,349"/>
+</map>

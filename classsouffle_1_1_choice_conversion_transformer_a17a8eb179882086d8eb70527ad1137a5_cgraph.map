@@ -1,0 +1,15 @@
+<map id="souffle::ChoiceConversionTransformer::rewriteScan" name="souffle::ChoiceConversionTransformer::rewriteScan">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_operation.html#a39e8b29bf74f410018e8a951696ebc70" title="Create a clone (i.e. " alt="" coords="263,5,427,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_nested_operation.html#aecd9e1a082f7ad54bea98bd6a6825352" title="Get nested operation. " alt="" coords="240,71,451,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="240,136,451,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_unpack_record.html#a711c34c3b1587aa02c854c3c3b6e3118" title="Get reference level. " alt="" coords="249,201,441,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation_search.html#a75a101a526f46d3baa7971622c6b596b" title="Get search relation. " alt="" coords="247,267,443,308"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_search.html#a65035eb792c3bfb3c7df5313deac197e" title="Get identifier. " alt="" coords="272,332,419,373"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="528,398,655,425"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_element_access.html#afef6e9980fa10d9b6e63c4844a4d30c6" title="Get identifier. " alt="" coords="246,449,445,491"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#aedb9e5cd2a72ce6acebd8d3eb233a05d" title="A function obtaining a pointer to the tuple addressed by the given reference. " alt="" coords="286,515,405,542"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="264,570,427,597"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1detail_1_1_record_map.html#a69dd3a240de59e2570d6fc282cb267fe" title="Obtains a pointer to the tuple addressed by the given index. " alt="" coords="499,504,684,545"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="510,569,673,611"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="732,569,919,611"/>
+</map>

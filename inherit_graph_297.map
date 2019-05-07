@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsouffle_1_1_ram_transformer.html" title="Abstract Transformer Class for RAM. " alt="" coords="5,130,183,157"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_choice_conversion_transformer.html" title="Convert (Scan/If)/(IndexScan/If) operaitons to (Choice)/(IndexChoice) operations. ..." alt="" coords="251,5,437,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_expand_filter_transformer.html" title="Transforms RamConjunctions into consecutive filter operations. " alt="" coords="231,71,457,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_hoist_conditions_transformer.html" title="Hosts conditions in a loop&#45;nest to the most&#45;outer/semantically&#45;correct loop. " alt="" coords="258,123,430,164"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_if_conversion_transformer.html" title="Convert IndexScan operations to Filter/Existence Checks. " alt="" coords="231,189,457,215"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_make_index_transformer.html" title="Make indexable operations to indexed operations. " alt="" coords="236,239,452,266"/>
+</map>
